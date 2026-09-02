@@ -1,5 +1,7 @@
 # EE641 Final Project
 
+**Quick Video Demo:** [Click Me](https://www.youtube.com/watch?v=CA7O84SmFRs&t=15s)
+
 This project implements and compares **ViT-DeCV (Vision Transformer with Decorrelation)** performance across different datasets, integrating CLIP text decomposition techniques for visual representation analysis.
 
 ## Project Core
